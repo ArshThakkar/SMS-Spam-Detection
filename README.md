@@ -1,5 +1,5 @@
 
-## Email/SMS Spam Classification Project
+### Email/SMS Spam Classification Project
 
 This project aims to classify SMS messages as either spam or not spam using machine learning techniques. The project involves data preprocessing, exploratory data analysis (EDA), model building, and performance evaluation.
 
